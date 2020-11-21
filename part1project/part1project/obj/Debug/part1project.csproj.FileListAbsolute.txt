@@ -1,0 +1,7 @@
+F:\Aliceru\study6\part1project\part1project\bin\Debug\part1project.exe.config
+F:\Aliceru\study6\part1project\part1project\bin\Debug\part1project.exe
+F:\Aliceru\study6\part1project\part1project\bin\Debug\part1project.pdb
+F:\Aliceru\study6\part1project\part1project\obj\Debug\part1project.csprojAssemblyReference.cache
+F:\Aliceru\study6\part1project\part1project\obj\Debug\part1project.csproj.CoreCompileInputs.cache
+F:\Aliceru\study6\part1project\part1project\obj\Debug\part1project.exe
+F:\Aliceru\study6\part1project\part1project\obj\Debug\part1project.pdb
